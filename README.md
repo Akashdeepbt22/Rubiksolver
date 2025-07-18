@@ -15,7 +15,7 @@ YARCS is a modern, efficient Rubik's cube solver application with an intuitive g
 
 ## Installation
 
-1. Download the latest release from the [releases page](https://github.com/singhmanasmay/YARCS/releases)
+1. Download the latest release from the [releases page](https://github.com/Akashdeepbt22/Rubiksolver-YARCS/releases/tag/v1.0)
 3. Run the downloaded file `YARCS.exe`
 
 Or run from source:
