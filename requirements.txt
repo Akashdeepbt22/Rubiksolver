@@ -1,0 +1,10 @@
+os
+functools
+decimal
+threading
+multiprocessing
+customtkinter
+kociemba
+pywinstyles
+winaccent
+Pillow
